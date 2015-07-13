@@ -1,0 +1,284 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: IG Testimonials\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Wed Jul 08 2015 16:45:09 GMT+0200 (CEST)\n"
+"POT-Revision-Date: Wed Jul 08 2015 16:50:10 GMT+0200 (CEST)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Base ID
+#: ../extra/ig-testimonials-carousel-widget.php:12
+msgid "IG Testimonials Carousel"
+msgstr ""
+
+#: ../extra/ig-testimonials-carousel-widget.php:13
+msgid "Display a carousel with your testimonials"
+msgstr ""
+
+#: ../extra/ig-testimonials-carousel-widget.php:85 ../extra/ig-testimonials-
+#: shortcodes.php:52 ../extra/ig-testimonials-shortcodes.php:138
+msgid "Website &#8594;"
+msgstr ""
+
+#: ../extra/ig-testimonials-carousel-widget.php:106
+msgid "Title:"
+msgstr ""
+
+#: ../extra/ig-testimonials-carousel-widget.php:111
+msgid "Display testimonial image?"
+msgstr ""
+
+#: ../extra/ig-testimonials-carousel-widget.php:113
+msgid "Show categories:"
+msgstr ""
+
+#: ../includes/ig-testimonials-function.php:17
+msgid "Testimonial details"
+msgstr ""
+
+#: ../includes/ig-testimonials-function.php:29
+msgid "Add your testimonial details"
+msgstr ""
+
+#: ../includes/ig-testimonials-function.php:32
+msgid "Name"
+msgstr ""
+
+#: ../includes/ig-testimonials-function.php:37
+msgid "Job"
+msgstr ""
+
+#: ../includes/ig-testimonials-function.php:42
+msgid "Website"
+msgstr ""
+
+#: ../includes/ig-testimonials-function.php:72
+msgid "Testimonial image"
+msgstr ""
+
+#: ../includes/ig-testimonials-function.php:78
+msgid "Thumbs"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:8
+msgctxt "Post Type General Name"
+msgid "Testimonials"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:9
+msgctxt "Post Type Singular Name"
+msgid "Testimonial"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:10 ../includes/ig-testimonials-post-
+#: type.php:11
+msgid "Testimonial"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:12
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:13
+msgid "All Testimonial"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:14
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:15
+msgid "Add New"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:16
+msgid "New Testimonial"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:17
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:18
+msgid "Update Testimonial"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:19
+msgid "View Testimonial"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:20
+msgid "Search Testimonial"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:21
+msgid "Not found"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:22
+msgid "Not found in Trash"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:25
+msgid "testimonial"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:26
+msgid "Testimonial post type"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:59
+msgctxt "Taxonomy General Name"
+msgid "Categories"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:60
+msgctxt "Taxonomy Singular Name"
+msgid "Category"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:61
+msgid "Categories"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:62
+msgid "All Categories"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:63
+msgid "Parent Category"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:64
+msgid "Parent Category:"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:65
+msgid "New Category Name"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:66
+msgid "Add New Category"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:67
+msgid "Edit Category"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:68
+msgid "Update Category"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:69
+msgid "View Category"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:70
+msgid "Separate categories with commas"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:71
+msgid "Add or remove categories"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:72
+msgid "Choose from the most used"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:73
+msgid "Popular Categories"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:74
+msgid "Search Categories"
+msgstr ""
+
+#: ../includes/ig-testimonials-post-type.php:75
+msgid "Not Found"
+msgstr ""
+
+#: ../includes/ig-testimonials-settings.php:19
+msgid "General Settings"
+msgstr ""
+
+#: ../includes/ig-testimonials-settings.php:26
+msgid "Disable carousel script and style"
+msgstr ""
+
+#: ../includes/ig-testimonials-settings.php:41
+msgid "If your theme use the same carousel you can disable it"
+msgstr ""
+
+#: ../includes/ig-testimonials-settings.php:49
+msgid "Configure your IG Testimonials settings"
+msgstr ""
+
+#: ../includes/ig-testimonials-settings.php:73
+msgid "Getting Started"
+msgstr ""
+
+#: ../includes/ig-testimonials-settings.php:76
+msgid ""
+"Learn more about IG Testimonials plugin, visit our website to read the "
+"plugin documentation."
+msgstr ""
+
+#: ../includes/ig-testimonials-settings.php:79
+msgid "Read the documentation"
+msgstr ""
+
+#: ../includes/ig-testimonials-settings.php:83
+msgid "Can i contribute?"
+msgstr ""
+
+#: ../includes/ig-testimonials-settings.php:86
+msgid ""
+"Would you like to translate the plugin into your language? Send us your "
+"language file and it will be included in the next plugin release."
+msgstr ""
+
+#: ../includes/ig-testimonials-settings.php:89
+msgid "Read how to make a translation"
+msgstr ""
+
+#: ../includes/ig-testimonials-settings.php:94
+msgid "Can't find a feature?"
+msgstr ""
+
+#: ../includes/ig-testimonials-settings.php:97
+msgid "Please suggest and vote on ideas / feature requests at the feedback forum."
+msgstr ""
+
+#: ../includes/ig-testimonials-settings.php:100
+msgid "Submit your feedback"
+msgstr ""
+
+#: ../includes/ig-testimonials-settings.php:104
+msgid "Do you like the plugin?"
+msgstr ""
+
+#: ../includes/ig-testimonials-settings.php:107
+msgid "Why not leave a review on WordPress.org? We'd really appreciate it!"
+msgstr ""
+
+#: ../includes/ig-testimonials-settings.php:110
+msgid "Submit your review"
+msgstr ""
